@@ -1,0 +1,2 @@
+# hooq
+personal AI agent 
